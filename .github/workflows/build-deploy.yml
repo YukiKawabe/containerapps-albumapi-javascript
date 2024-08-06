@@ -2,7 +2,7 @@
  on:
   # Add env
  env:
-   CONTAINER_REGISTRY: handson01repo20240718.azurecr.io # Azure Container Registry のドメイン (~.azurecr.io) をこちらに設定
+   CONTAINER_REGISTRY: kawabe0806jxuftrgfllgai.azurecr.io # Azure Container Registry のドメイン (~.azurecr.io) をこちらに設定
    # 手動実行用トリガー
    workflow_dispatch:      
  jobs:
